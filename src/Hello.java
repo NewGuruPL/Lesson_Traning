@@ -490,7 +490,7 @@ import java.util.Scanner;
 //        System.out.println(u);
 //
 //        /* łączenie ciągów znaków ----------------------------------------------------------------------------------- */
-//        int age = 42;
+//        int age = 30;
 //        String output = age + " lata";
 //        String output2 = "Za rok bedziesz miał " + age + 1 + " lat";
 //        String output3 = "Za rok bedziesz miał " + (age + 1) + " lat";
